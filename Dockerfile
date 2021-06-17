@@ -16,4 +16,4 @@ ADD . /app/
 RUN SECRET_KEY=fake python manage.py collectstatic -v0 --noinput
 
 EXPOSE 8000
-CMD python manage.py runserver 0.0.0.0:8000
+CMD python manage.py runsslserver 0.0.0.0:8000
