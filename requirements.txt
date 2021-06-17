@@ -12,3 +12,4 @@ urllib3==1.24.2 --hash=sha256:4c291ca23bbb55c76518905869ef34bdd5f0e46af7afe6861e
 future==0.16.0 --hash=sha256:e39ced1ab767b5936646cedba8bcce582398233d6a627067d4c6a454c90cfedb
 six==1.11.0 --hash=sha256:832dc0e10feb1aa2c68dcc57dbb658f1c7e65b9b61af69048abc87a2db00a0eb
 whitenoise==4.0b4 --hash=sha256:9a8ef48d2a2b4a101d84a0e5edbb20759affbc832cd74f3194e803cca7f28f6a
+django-sslserver==0.22 --hash=sha256:c598a363d2ccdc2421c08ddb3d8b0973f80e8e47a3a5b74e4a2896f21c2947c5
